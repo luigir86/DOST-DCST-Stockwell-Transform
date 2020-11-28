@@ -12,3 +12,5 @@ U. Battisti, L. Riba, "Window-dependent bases for efficient representations of t
 
 Cite As
 Luigi Riba (2020). FFT-fast S-transforms: DOST, DCST, DOST2 and DCST2 (https://www.mathworks.com/matlabcentral/fileexchange/53910-fft-fast-s-transforms-dost-dcst-dost2-and-dcst2), MATLAB Central File Exchange. Retrieved November 28, 2020.
+
+[![View FFT-fast S-transforms: DOST, DCST, DOST2 and DCST2 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://it.mathworks.com/matlabcentral/fileexchange/53910-fft-fast-s-transforms-dost-dcst-dost2-and-dcst2)
